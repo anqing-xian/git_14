@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/anqing-xian/git_14/issues"
   },
-  "homepage": "https://github.com/anqing-xian/git_14#readme"
+  "homepage": "https://github.com/anqing-xian/git_14#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
 }
